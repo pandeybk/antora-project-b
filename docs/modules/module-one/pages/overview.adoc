@@ -1,5 +1,5 @@
 = Module One Overview
-:page-category: ztp, 5gcore
+:page-category: ztp
 
 This is version *{page-component-display-version}* of Module One in Component B.
 
